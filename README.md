@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bengaaaa
+- 👀 I’m interested in web developement, machine learning, data science
+- 🌱 I’m currently learning data structures and algorithms in python
+- 💞️ I’m looking to collaborate on web developement projects
+- 📫 How to reach me: linkedin.com/in/bencriteser
