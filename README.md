@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bengaaaa
-- 👀 I’m interested in web development, machine learning, and data science
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in software engineering, machine learning, and data science
+- 🌱 I’m currently looking for a job opportunity in software engineering
+- 💞️ I’m looking to collaborate on software engineering projects
 - 📫 How to reach me: linkedin.com/in/bencriteser
