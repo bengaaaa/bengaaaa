@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bengaaaa
 - 👀 I’m interested in software engineering, machine learning, and data science
-- 🌱 I’m currently a software engineer at Rivet Health
-- 💞️ I’m looking to collaborate on software engineering projects
+- 🌱 I’m currently working on a soroban competition web application
+- 💞️ I’m looking for work
 - 📫 How to reach me: linkedin.com/in/bencriteser
